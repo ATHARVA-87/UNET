@@ -1,0 +1,1 @@
+https://github.com/VikramShenoy97/Human-Segmentation-Dataset.git ##took  data from here

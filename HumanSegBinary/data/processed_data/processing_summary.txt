@@ -1,0 +1,24 @@
+Image Preprocessing Summary
+==============================
+
+Target Image Size: 320 x 240
+Train Ratio: 80.0%
+
+Training Data:
+  - Total pairs: 232
+  - Successfully processed: 232
+  - Success rate: 100.0%
+
+Test Data:
+  - Total pairs: 58
+  - Successfully processed: 58
+  - Success rate: 100.0%
+
+Directory Structure:
+  processed_data/
+  ├── train/
+  │   ├── images/
+  │   └── masks/
+  └── test/
+      ├── images/
+      └── masks/
