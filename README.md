@@ -51,8 +51,8 @@ Edit
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/HumanSegBinary.git
-   cd HumanSegBinary
+   git clone https://github.com/ATHARVA-87/UNET.git
+   cd UNET
 Prepare your dataset under:
 
 data/images/
